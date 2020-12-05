@@ -62,3 +62,11 @@
 - Write a program to simulate the working of the [<b>Dining philosopher’s problem</b>](./Process%20Synchronization/Dining%20Philosophers%20Problem).
   - [C File](./Process%20Synchronization/Dining%20Philosophers%20Problem/dining.c)
   - [Output](./Process%20Synchronization/Dining%20Philosophers%20Problem/Output.png)
+  
+- Implement the [<b>Symbol table functions</b>](./Process%20Synchronization/Symbol%20Table%20Function): create, insert, modify, search, and display.
+  - [C File](./Process%20Synchronization/Symbol%20Table%20Function/symbol.c)
+  - [Output](./Process%20Synchronization/Symbol%20Table%20Function/output.png)
+  
+- Implement [<b>pass one of a two pass assembler</b>](./Process%20Synchronization/Two%20Pass%20Assembler).
+  - [C File](./Process%20Synchronization/Two%20Pass%20Assembler/pass1.c)
+  - [Output](./Process%20Synchronization/Two%20Pass%20Assembler/output.png)
