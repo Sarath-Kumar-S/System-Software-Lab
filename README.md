@@ -67,6 +67,19 @@
   - [C File](./Process%20Synchronization/Symbol%20Table%20Function/symbol.c)
   - [Output](./Process%20Synchronization/Symbol%20Table%20Function/output.png)
   
-- Implement [<b>pass one of a two pass assembler</b>](./Process%20Synchronization/Two%20Pass%20Assembler).
+- Implement [<b>Pass One of a Two Pass Assembler</b>](./Process%20Synchronization/Two%20Pass%20Assembler).
   - [C File](./Process%20Synchronization/Two%20Pass%20Assembler/pass1.c)
   - [Output](./Process%20Synchronization/Two%20Pass%20Assembler/output.png)
+  
+- Implement a [<b>Single Pass Assembler</b>](./Process%20Synchronization/Single%20Pass%20Assembler).
+  - [C File](./Process%20Synchronization/Single%20Pass%20Assembler/singlepass.c)
+  - [Output](./Process%20Synchronization/Single%20Pass%20Assembler/output.png)
+ 
+- Implement a [<b>Two Pass Macro processor</b>](./Process%20Synchronization/Two%20Pass%20Microprocessor).
+  - [C File](./Process%20Synchronization/Two%20Pass%20Microprocessor/micro.c)
+  - [Output](./Process%20Synchronization/Two%20Pass%20Microprocessor/Output)
+  
+- Implement a [<b>Symbol table with suitable hashing</b>](./Process%20Synchronization/Symbol%20Table%20With%20Hashing).
+  - [C File](./Process%20Synchronization/Symbol%20Table%20With%20Hashing/symhash.c)
+  - [Output](./Process%20Synchronization/Symbol%20Table%20With%20Hashing/output.png)
+
